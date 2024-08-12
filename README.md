@@ -2,7 +2,7 @@
 
 App desenvolvido onde é possível o usuário se registrar e começar a cadastrar suas tarefas \
 para utilizar este app é importante ter acesso a api desenvolvida para ele. A api se encontra nesse repositório \
-[text](https://github.com/GGSimas/task-api-wevy)
+[repositorio task api](https://github.com/GGSimas/task-api-wevy)
 
 ## Tecnologias utilizadas
 
@@ -24,4 +24,4 @@ ou se preferir pressione a tecla **a** no seu terminal para instalar o expo e ex
 ou pressione a tecla **i** no seu terminal para instalar o expo e executar o app no simulador ios
 
 ## Link APK android
-[text](https://expo.dev/accounts/ggsimas/projects/app/builds/5e6ead5e-f99c-4899-a3ca-27f2d7fc4ab0)
+[apk android](https://expo.dev/accounts/ggsimas/projects/app/builds/5e6ead5e-f99c-4899-a3ca-27f2d7fc4ab0)
